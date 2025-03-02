@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+// 2
 
 void quick_sort(int* arr, int size){
 	int j = size;
