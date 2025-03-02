@@ -3,7 +3,7 @@
 #include <time.h>
 #include <math.h>
 
-// ЦУКЕНГШЛОРИМАПРОГРТИРОШЛОТasas
+// ЦУКЕНГШЛОРИМАПРОГРТИРОШЛОТa
 
 void swap(int * a, int * b)
 {
