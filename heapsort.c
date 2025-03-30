@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-// 1a
+// 1
 void tree_sort(int *arr, int root, int size){
 	int maxChild;
 	while (root * 2+1<= size) {
