@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-// 1ф
+// 1фasd
 
 void tree_sort(int *arr, int root, int size){
 	int maxChild;
